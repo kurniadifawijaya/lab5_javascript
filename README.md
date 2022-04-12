@@ -29,9 +29,7 @@ selanjutnya kita membuat Promp
 
 ![Promp](4.PNG)
 
-Setelah saya mencoba memasukan nama saya kurnia difa wijaya
- pada kolom prompt tersebut maka halam akan otomatis menampilkan seperti dibawah ini
+Setelah saya mencoba memasukan nama saya kurnia difa wijaya pada kolom prompt tersebut maka halam akan otomatis menampilkan seperti dibawah ini
 
  ![promp](5.PNG)
 
- 

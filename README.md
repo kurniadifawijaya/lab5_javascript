@@ -33,3 +33,14 @@ Setelah saya mencoba memasukan nama saya kurnia difa wijaya pada kolom prompt te
 
  ![promp](5.PNG)
 
+* **Operasi dasar aritmatika**
+
+membuat Operasi dasar aritmatika
+
+![Operasi dasar aritmatika](6.PNG)
+
+* **Seleksi kondisi**
+
+membuat Seleksi kondisi
+
+![Seleksi kondisi](7.PNG)
